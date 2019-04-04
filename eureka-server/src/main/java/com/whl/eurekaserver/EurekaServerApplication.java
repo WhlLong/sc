@@ -1,4 +1,4 @@
-package com.whl.eurekademo;
+package com.whl.eurekaserver;
 
 
 import org.springframework.boot.SpringApplication;

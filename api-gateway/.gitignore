@@ -1,7 +1,7 @@
 HELP.md
-*/target/*
+/target/
 .idea
-*/.idea/*
+/.idea/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -25,7 +25,7 @@ HELP.md
 /dist/
 /nbdist/
 /.nb-gradle/
-*/build/*
+/build/
 
 ### VS Code ###
 .vscode/
